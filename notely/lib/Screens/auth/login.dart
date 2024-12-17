@@ -19,7 +19,6 @@ class LoginPage extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               Container(
-                
                 color: primaryColor,
                 height: 50.h,
                 width: 100.w,
