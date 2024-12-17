@@ -50,6 +50,7 @@ class Dive extends StatelessWidget {
                         "We are",
                         style: TextStyle(color: primaryColor, fontSize: 35),
                       ),
+                      
                       const Text(
                         "done!",
                         style: TextStyle(color: primaryColor, fontSize: 35),
