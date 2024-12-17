@@ -26,6 +26,7 @@ class Dive extends StatelessWidget {
                     SizedBox(
                       height: 15.h,
                     ),
+                    
                     Center(
                       child: Image.asset(
                         "assets/smilea.png",
