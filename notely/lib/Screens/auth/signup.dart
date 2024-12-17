@@ -19,7 +19,6 @@ class Signup extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-              
               Container(
                 color: primaryColor,
                 height: 50.h,
