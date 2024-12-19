@@ -51,7 +51,6 @@ Widget Google_button({
     ),
   );
 }
-
 Widget Apple_button(
     {required VoidCallback onTap,
     double radius = 10,
