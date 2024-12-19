@@ -97,7 +97,6 @@ Widget text_buttonPrimary(
     ),
   );
 }
-
 const primaryColor = Color.fromRGBO(226, 221, 203, 1);
 const primaryColorlessvisible = Color.fromRGBO(226, 221, 203, 0.5);
 const SecondaryColor = Color.fromRGBO(10, 25, 48, 1);
