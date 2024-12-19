@@ -77,7 +77,6 @@ Widget Apple_button(
     ),
   );
 }
-
 Widget text_buttonPrimary(
     {required VoidCallback onTap,
     double radius = 10,
