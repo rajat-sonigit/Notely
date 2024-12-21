@@ -7,7 +7,6 @@ import 'package:notely/elements/textfield.dart';
 import 'package:sizer/sizer.dart';
 class TandC extends StatelessWidget {
   const TandC({super.key});
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
