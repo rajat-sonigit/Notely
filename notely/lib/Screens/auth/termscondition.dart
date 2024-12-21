@@ -92,7 +92,7 @@ class TandC extends StatelessWidget {
                             child: const Text(
                               "<-- Previous",
                               style: TextStyle(
-                                  color: SecondaryColor, fontSize: 16),
+                               color: SecondaryColor, fontSize: 16),
                             ),
                           ),
                           SizedBox(width: 15.w),
