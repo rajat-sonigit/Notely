@@ -5,7 +5,6 @@ import 'package:notely/elements/circles.dart';
 import 'package:notely/elements/style.dart';
 import 'package:notely/elements/textfield.dart';
 import 'package:sizer/sizer.dart';
-
 class TandC extends StatelessWidget {
   const TandC({super.key});
 
