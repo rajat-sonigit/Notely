@@ -114,6 +114,7 @@ class StartScreen extends StatelessWidget {
                               " NEXT --> ",
                               style:
                                   TextStyle(color: primaryColor, fontSize: 16),
+                              
                             ),
                           )
                         ],
