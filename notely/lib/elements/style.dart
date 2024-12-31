@@ -40,6 +40,7 @@ Widget Google_button({
           width: 2.0, // Set the border width (adjust as needed)
         ),
       ),
+        
       height: 8.h,
       width: 30.w,
       child: Center(
