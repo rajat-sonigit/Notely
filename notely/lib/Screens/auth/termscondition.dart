@@ -131,6 +131,7 @@ class TandC extends StatelessWidget {
                               " NEXT --> ",
                               style: TextStyle(
                                   color: SecondaryColor, fontSize: 16),
+                              
                             ),
                           )
                         ],
