@@ -13,6 +13,7 @@ class SmallCircle extends StatelessWidget {
       decoration: BoxDecoration(
         color: color,
         shape: BoxShape.circle,
+        
       ),
     );
   }
