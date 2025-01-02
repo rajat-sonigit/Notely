@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 class SmallCircle extends StatelessWidget {
   final double size;
   final Color color;
-
   const SmallCircle({Key? key, required this.size, required this.color})
       : super(key: key);
   @override
