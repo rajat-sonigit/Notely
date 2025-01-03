@@ -73,7 +73,7 @@ class Signup extends StatelessWidget {
                         label: "Email",
                         textColor: primaryColor,
                         underlineColor: primaryColor,
-                      )),
+                       )),
                       const Center(
                           child: CustomTxtField(
                         HintText: "hint - password123",
