@@ -43,6 +43,7 @@ class StartScreen extends StatelessWidget {
                   ],
                 ),
               ),
+              
               Container(
                 color: SecondaryColor,
                 height: 50.h,
