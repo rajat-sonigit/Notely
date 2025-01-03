@@ -113,7 +113,7 @@ class Signup extends StatelessWidget {
                             child: const Text(
                               "<-- Previous",
                               style:
-                                  TextStyle(color: primaryColor, fontSize: 16),
+                                   TextStyle(color: primaryColor, fontSize: 16),
                             ),
                           ),
                           SizedBox(width: 15.w),
