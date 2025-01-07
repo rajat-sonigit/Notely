@@ -26,7 +26,8 @@ Widget Google_button({
   required VoidCallback onTap,
   double radius = 10,
   Color color = tertiaryColor, // Change to your tertiaryColor if needed
-}) {
+}) 
+{
   return GestureDetector(
     onTap: onTap,
     child: Container(
