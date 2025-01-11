@@ -18,7 +18,6 @@ class CustomTxtField extends StatelessWidget {
     this.keyboardType = TextInputType.text,
     required this.HintText,
   });
-
   @override
   Widget build(BuildContext context) {
     return Center(
