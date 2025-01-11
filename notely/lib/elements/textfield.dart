@@ -9,7 +9,6 @@ class CustomTxtField extends StatelessWidget {
   final Color textColor;
   final Color underlineColor;
   final TextInputType keyboardType;
-
   const CustomTxtField({
     super.key,
     required this.label,
