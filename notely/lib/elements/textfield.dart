@@ -40,6 +40,7 @@ class CustomTxtField extends StatelessWidget {
             ),
           ),
         ),
+        
         keyboardType: keyboardType,
         style: TextStyle(
           fontSize: fontSize,
