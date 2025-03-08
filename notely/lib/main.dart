@@ -3,7 +3,6 @@ import 'package:notely/Screens/auth/startscreen.dart';
 import 'package:get/get.dart';
 import 'package:sizer/sizer.dart';
 
-
 void main() {
   runApp(const MyApp());
 }
