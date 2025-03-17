@@ -28,7 +28,6 @@ Widget Google_button({
   double radius = 10,
   Color color = tertiaryColor, // Change to your tertiaryColor if needed
 }) 
-    
 {
   return GestureDetector(
     onTap: onTap,
